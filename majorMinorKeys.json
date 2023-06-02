@@ -1,0 +1,1260 @@
+{
+  "C-major": [
+    {
+      "root": "C",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "C-minor": [
+    {
+      "root": "C",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "Eb",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Ab",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "Bb",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "C#-major": [
+    {
+      "root": "C#",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "D#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "E#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F#",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "G#",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "A#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "C#-minor": [
+    {
+      "root": "C#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "D#",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "F#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "G#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "Db-major": [
+    {
+      "root": "Db",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "Eb",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Gb",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "Ab",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "Bb",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "Db-minor": [
+    {
+      "root": "Db",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Eb",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "Gb",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Ab",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "D-major": [
+    {
+      "root": "D",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C#",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "D-minor": [
+    {
+      "root": "D",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Bb",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "D#-major": [
+    {
+      "root": "D#",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "G#",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "A#",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "D#-minor": [
+    {
+      "root": "D#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "F#",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "G#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "A#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "C#",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "Eb-major": [
+    {
+      "root": "Eb",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Ab",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "Bb",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "Eb-minor": [
+    {
+      "root": "Eb",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "Gb",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "Ab",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Bb",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "C#",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "E-major": [
+    {
+      "root": "E",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "F#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "G#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "C#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "D#",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "E-minor": [
+    {
+      "root": "E",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F#",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "F-major": [
+    {
+      "root": "F",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Bb",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "F-minor": [
+    {
+      "root": "F",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "Ab",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "Bb",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C#",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "D#",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "F#-major": [
+    {
+      "root": "F#",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "G#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "A#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "C#",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "D#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "F#-minor": [
+    {
+      "root": "F#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "G#",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "Gb-major": [
+    {
+      "root": "Gb",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "Ab",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Bb",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "Db",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "Eb",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "Gb-minor": [
+    {
+      "root": "Gb",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Ab",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Db",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "G-major": [
+    {
+      "root": "G",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F#",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "G-minor": [
+    {
+      "root": "G",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "Bb",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Eb",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "G#-major": [
+    {
+      "root": "G#",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "A#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C#",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "D#",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "G#-minor": [
+    {
+      "root": "G#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "A#",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "C#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "D#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "F#",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "Ab-major": [
+    {
+      "root": "Ab",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "Bb",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Db",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "Eb",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "Ab-minor": [
+    {
+      "root": "Ab",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Bb",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "Db",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Eb",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "Gb",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "A-major": [
+    {
+      "root": "A",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "F#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "G#",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "A-minor": [
+    {
+      "root": "A",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "B",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "A#-major": [
+    {
+      "root": "A#",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "D#",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "A#-minor": [
+    {
+      "root": "A#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "C#",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "D#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F#",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "Bb-major": [
+    {
+      "root": "Bb",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Eb",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "Bb-minor": [
+    {
+      "root": "Bb",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "Db",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "Eb",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "Gb",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ],
+  "B-major": [
+    {
+      "root": "B",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "C#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "D#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "F#",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    },
+    {
+      "root": "G#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "A#",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    }
+  ],
+  "B-minor": [
+    {
+      "root": "B",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "C#",
+      "triadQuality": "diminished",
+      "tetradQuality": "halfDiminished7"
+    },
+    {
+      "root": "D",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "E",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "F#",
+      "triadQuality": "minor",
+      "tetradQuality": "minor7"
+    },
+    {
+      "root": "G",
+      "triadQuality": "major",
+      "tetradQuality": "major7"
+    },
+    {
+      "root": "A",
+      "triadQuality": "major",
+      "tetradQuality": "dominant7"
+    }
+  ]
+}
